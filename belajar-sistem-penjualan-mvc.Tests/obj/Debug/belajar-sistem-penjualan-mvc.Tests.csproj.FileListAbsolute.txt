@@ -1,0 +1,8 @@
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.Tests\bin\Debug\belajar-sistem-penjualan-mvc.Tests.dll.config
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.Tests\bin\Debug\belajar-sistem-penjualan-mvc.Tests.dll
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.Tests\bin\Debug\belajar-sistem-penjualan-mvc.Tests.pdb
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.Tests\bin\Debug\belajar-sistem-penjualan-mvc.dll
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.Tests\bin\Debug\belajar-sistem-penjualan-mvc.pdb
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.Tests\obj\Debug\belajar-sistem-penjualan-mvc.Tests.dll
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.Tests\obj\Debug\belajar-sistem-penjualan-mvc.Tests.pdb

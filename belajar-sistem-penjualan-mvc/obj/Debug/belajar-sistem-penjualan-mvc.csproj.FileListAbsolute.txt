@@ -1,0 +1,5 @@
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc\bin\belajar-sistem-penjualan-mvc.dll
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc\bin\belajar-sistem-penjualan-mvc.pdb
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc\obj\Debug\ResolveAssemblyReference.cache
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc\obj\Debug\belajar-sistem-penjualan-mvc.dll
+D:\belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc\obj\Debug\belajar-sistem-penjualan-mvc.pdb

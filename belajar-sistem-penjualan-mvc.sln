@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belajar-sistem-penjualan-mvc", "belajar-sistem-penjualan-mvc\belajar-sistem-penjualan-mvc.csproj", "{EB93166D-134D-4213-93E4-33647563D775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belajar-sistem-penjualan-mvc.Tests", "belajar-sistem-penjualan-mvc.Tests\belajar-sistem-penjualan-mvc.Tests.csproj", "{6872A3F8-F60F-4ADC-A2F3-D9FB45D8E781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB93166D-134D-4213-93E4-33647563D775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB93166D-134D-4213-93E4-33647563D775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB93166D-134D-4213-93E4-33647563D775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB93166D-134D-4213-93E4-33647563D775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6872A3F8-F60F-4ADC-A2F3-D9FB45D8E781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6872A3F8-F60F-4ADC-A2F3-D9FB45D8E781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6872A3F8-F60F-4ADC-A2F3-D9FB45D8E781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6872A3F8-F60F-4ADC-A2F3-D9FB45D8E781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
